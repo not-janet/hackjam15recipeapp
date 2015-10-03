@@ -1,0 +1,22 @@
+body {
+	font-family: "Comic Sans MS"
+}
+img{
+	height: 200px;
+	width: 200px;
+}
+.coverphoto {
+	text-align: center;
+	background-image: url("http://searchenginewatch.com/IMG/992/221992/sad-puppy.jpg?1435221295");
+	background-size: cover;
+	color: yellow;
+}
+
+p {
+	width: 30%;
+	margin: auto;
+}
+
+.aboutme{
+	background-color: yellow;
+}
